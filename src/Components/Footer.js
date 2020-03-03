@@ -7,7 +7,7 @@ export default class Footer extends Component {
         <div>
           <img
             className="balLogo"
-            src={require('/Users/timbodiford/projects/bal-site/bal-site/src/images/breakaway-logo.png')}
+            src={require('../images/partners/breakaway-logo.png')}
           ></img>
         </div>
         <div>

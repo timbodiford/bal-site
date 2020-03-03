@@ -13,7 +13,7 @@ export default class Who extends Component {
             <div className="who-tile">
               <img
                 className="who-img"
-                src={require('/Users/timbodiford/projects/bal-site/bal-site/src/images/breakaway-logo.png')}
+                src={require('../images/partners/breakaway-logo.png')}
                 alt="img"
               ></img>{' '}
               <h6>Client Services</h6>
@@ -28,7 +28,7 @@ export default class Who extends Component {
             <div className="who-tile">
               <img
                 className="who-img"
-                src={require('/Users/timbodiford/projects/bal-site/bal-site/src/images/breakaway-logo.png')}
+                src={require('../images/partners/breakaway-logo.png')}
                 alt="img"
               ></img>
               <h6>Program Management</h6>
@@ -43,7 +43,7 @@ export default class Who extends Component {
             <div className="who-tile">
               <img
                 className="who-img"
-                src={require('/Users/timbodiford/projects/bal-site/bal-site/src/images/breakaway-logo.png')}
+                src={require('../images/partners/breakaway-logo.png')}
                 alt="img"
               ></img>
               <h6>Development</h6>
@@ -58,7 +58,7 @@ export default class Who extends Component {
             <div className="who-tile">
               <img
                 className="who-img"
-                src={require('/Users/timbodiford/projects/bal-site/bal-site/src/images/breakaway-logo.png')}
+                src={require('../images/partners/breakaway-logo.pngg')}
                 alt="img"
               ></img>
               <h6>Implementation</h6>
