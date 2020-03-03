@@ -5,10 +5,10 @@ export default class Test extends Component {
     return (
       <div id="top" className="nav">
         
-        <img
+        {/* <img
           className="balLogo"
           src={require('/Users/timbodiford/projects/bal-site/bal-site/src/images/breakaway-logo.png')}
-        ></img>
+        ></img> */}
         <div className="pushed">
           <a className="link" href="#">Home</a>
           <a className="link" href="#contactus">Contact Us</a>
