@@ -58,7 +58,7 @@ export default class Who extends Component {
             <div className="who-tile">
               <img
                 className="who-img"
-                src={require('../images/partners/breakaway-logo.pngg')}
+                src={require('../images/partners/breakaway-logo.png')}
                 alt="img"
               ></img>
               <h6>Implementation</h6>
