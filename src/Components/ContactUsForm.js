@@ -22,7 +22,7 @@ export default class ContactUsForm extends Component {
               <input
                 type="text"
                 id="contact-name"
-                placeholder="Enter your contant name here"
+                placeholder="Enter your contact name here"
               ></input>
             </div>
           </div>
